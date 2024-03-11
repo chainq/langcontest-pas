@@ -1,4 +1,4 @@
-## Langcontest-Pas
+## langcontest-pas
 
 Free Pascal version, needs FPC Git main, 3.3.1.
 
