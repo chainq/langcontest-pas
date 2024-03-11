@@ -1,0 +1,10 @@
+*.bin
+*.elf
+*.o
+*.s
+*.ppu
+*.img
+*.map
+*.bak
+
+!langcontest.elf
