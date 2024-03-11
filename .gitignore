@@ -6,5 +6,6 @@
 *.img
 *.map
 *.bak
+*.res
 
 !langcontest.elf
